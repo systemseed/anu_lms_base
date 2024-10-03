@@ -3,6 +3,7 @@
   "description": "A base recipe for Anu LMS.",
   "keywords": ["LMS", "recipe", "Drupal recipes", "drupal recipe"],
   "type": "drupal-recipe",
+  "license": "GPL-2.0-or-later",
   "require": {
     "drupal/core": ">=10.3",
     "drupal/anu_lms": "^2.10"
