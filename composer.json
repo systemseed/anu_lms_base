@@ -1,7 +1,6 @@
 {
   "name": "systemseed/anu_lms_base",
   "description": "A base recipe for Anu LMS.",
-  "version": "dev-main",
   "keywords": ["LMS", "recipe", "Drupal recipes", "drupal recipe"],
   "type": "drupal-recipe",
   "require": {
