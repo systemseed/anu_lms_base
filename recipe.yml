@@ -1,8 +1,10 @@
-name: 'Anu LMS Base'
-description: 'Sets up a basis Anu LMS functionality.'
+name: 'Anu LMS'
+description: 'Sets up the basics of the ANU Learning Management System.'
 type: 'Site'
 install:
   - anu_lms
 config:
   import:
     anu_lms: '*'
+    paragraphs: '*'
+    paragraphs_browser: '*'
