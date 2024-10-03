@@ -1,2 +1,8 @@
-name: 'Anu LMS base'
-description: 'A base recipe for Anu LMS'
+name: 'Anu LMS Base'
+description: 'Sets up a basis Anu LMS functionality.'
+type: 'Site'
+install:
+  - anu_lms
+config:
+  import:
+    anu_lms: '*'
