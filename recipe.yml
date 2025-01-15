@@ -8,3 +8,4 @@ config:
     anu_lms: '*'
     paragraphs: '*'
     paragraphs_browser: '*'
+  strict: false
